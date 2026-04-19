@@ -8,3 +8,7 @@ body, article, main, .content, p {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Latin Modern Roman', 'Computer Modern', serif;
 }
+/* Extra breathing room before top-level sections (##), mimicking LaTeX \newpage separation */
+article h2 {
+  margin-top: 3rem;
+}
