@@ -15,7 +15,7 @@ A collection of mathematical articles spanning foundations through advanced topi
 The building blocks: numbers, divisibility, modular arithmetic, algebra, series, and more.
 
 - [Introduction](foundations_what_is_the_meaning_of_this.md)
-- [Numbers: A Gentle Introduction](foundations_numbers_a_gentle_introduction.md) *(coming soon)*
+- [Numbers: A Gentle Introduction](foundations_numbers_a_gentle_introduction.md)
 - [Divisibility and Primes, Part I](foundations_divisibility_and_primes_part_i.md) *(coming soon)*
 - [Complex Numbers: A Gentle Introduction](foundations_complex_numbers_a_gentle_introduction.md) *(coming soon)*
 - [Some Interesting Numbers](foundations_some_interesting_numbers.md) *(coming soon)*

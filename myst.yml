@@ -13,7 +13,7 @@ project:
       children:
         - file: foundations_what_is_the_meaning_of_this
         # Add each file here after its .md conversion is complete:
-        # - file: foundations_numbers_a_gentle_introduction
+        - file: foundations_numbers_a_gentle_introduction
         # - file: foundations_divisibility_and_primes_part_i
         # - file: foundations_complex_numbers_a_gentle_introduction
         # - file: foundations_some_interesting_numbers
