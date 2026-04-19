@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: "01 - Introduction"
 label: chap:introduction_foundations
 author: Gaurav Khanna, Ph.D.
 numbering:

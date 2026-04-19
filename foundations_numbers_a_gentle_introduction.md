@@ -1,5 +1,5 @@
 ---
-title: Numbers - A Gentle Introduction
+title: "02 - Numbers - A Gentle Introduction"
 label: chap:numbers_a_gentle_introduction
 author: Gaurav Khanna, Ph.D.
 numbering:
