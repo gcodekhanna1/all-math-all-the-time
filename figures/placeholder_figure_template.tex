@@ -1,0 +1,19 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}
+\begin{document}
+\begin{tikzpicture}
+  % Outer dashed frame
+  \draw[thick, dashed, gray!50] (0,0) rectangle (8,5);
+  % Top label bar
+  \fill[gray!15] (0,4.2) rectangle (8,5);
+  \node[font=\small\bfseries\sffamily, text=gray!60] at (4,4.6)
+    {FIGURE PLACEHOLDER};
+  % Filename in center
+  \node[font=\normalsize\ttfamily, text=gray!70, align=center] at (4,2.3)
+    {\detokenize{replace_with_filename_1.pdf}};
+  % Subtitle prompt
+  \node[font=\small\sffamily\itshape, text=gray!50] at (4,1.4)
+    {Replace with standalone TikZ figure};
+\end{tikzpicture}
+\end{document}
