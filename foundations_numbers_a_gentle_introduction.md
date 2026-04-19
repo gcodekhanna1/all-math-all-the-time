@@ -33,7 +33,7 @@ $$
 \mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}
 $$
 
-:::{figure} figures/heirarchy_of_numbers_1.pdf
+:::{figure} figures/heirarchy_of_numbers_1.png
 :alt: Hierarchy of numbers placeholder
 **[Figure placeholder — heirarchy_of_numbers_1.pdf]**
 :::
@@ -49,7 +49,7 @@ The following examples fall in the category of: "when in doubt, always trust the
 (sec:intervals)=
 ## Intervals
 
-:::{figure} figures/intervals_table_1.pdf
+:::{figure} figures/intervals_table_1.png
 :alt: Intervals table placeholder
 **[Figure placeholder — intervals_table_1.pdf]**
 :::
@@ -521,7 +521,7 @@ $$
 5 = \sqrt{25}\ \rightarrow\ \sqrt{25} \times \sqrt{25} = 25
 $$
 
-:::{figure} figures/square_root_mapping_function.pdf
+:::{figure} figures/square_root_mapping_function.png
 :alt: Square root mapping function
 :::
 
@@ -563,7 +563,7 @@ $$
 
 This can be seen in Figure {ref}`fig:square_root_0_to_1`.
 
-:::{figure} figures/square_root_0_to_1.pdf
+:::{figure} figures/square_root_0_to_1.png
 :alt: Square root for 0 to 1
 :::
 
