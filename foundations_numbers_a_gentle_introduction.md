@@ -33,9 +33,9 @@ $$
 \mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}
 $$
 
-:::{figure} TODO_heirarchy_of_numbers_1.pdf
-:alt: TODO
-**[Figure placeholder — standalone TikZ PDF not yet created]**
+:::{figure} figures/heirarchy_of_numbers_1.pdf
+:alt: Hierarchy of numbers placeholder
+**[Figure placeholder — heirarchy_of_numbers_1.pdf]**
 :::
 
 
@@ -49,9 +49,9 @@ The following examples fall in the category of: "when in doubt, always trust the
 (sec:intervals)=
 ## Intervals
 
-:::{figure} TODO_intervals_table_1.pdf
-:alt: TODO
-**[Figure placeholder — Intervals table with number line diagrams, standalone TikZ PDF to be created]**
+:::{figure} figures/intervals_table_1.pdf
+:alt: Intervals table placeholder
+**[Figure placeholder — intervals_table_1.pdf]**
 :::
 
 (sec:divisibility_rules)=
@@ -521,7 +521,7 @@ $$
 5 = \sqrt{25}\ \rightarrow\ \sqrt{25} \times \sqrt{25} = 25
 $$
 
-:::{figure} square_root_mapping_function.pdf
+:::{figure} figures/square_root_mapping_function.pdf
 :alt: Square root mapping function
 :::
 
@@ -563,7 +563,7 @@ $$
 
 This can be seen in Figure {ref}`fig:square_root_0_to_1`.
 
-:::{figure} square_root_0_to_1.pdf
+:::{figure} figures/square_root_0_to_1.pdf
 :alt: Square root for 0 to 1
 :::
 
