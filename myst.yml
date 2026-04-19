@@ -70,3 +70,5 @@ site:
   template: book-theme
   options:
     style: custom.css
+    nav_title: "Gaurav Khanna, Ph.D."
+    logo: "Gaurav Khanna - WSJ Style Image.jpg"
