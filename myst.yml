@@ -1,20 +1,72 @@
+# MyST Markdown project config
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: 47d47237-ce4a-48ba-9985-660259140186
-  title: Math Notes
+  title: All Math All The Time
+  authors:
+    - name: Gaurav Khanna, Ph.D.
+  # TOC mirrors the Part/Chapter order in A_All Math All The Time.tex
+  # Add each file here after its .md conversion is complete.
   toc:
-    - file: index.md
-    - title: Calculus
+    - file: index
+    - title: Foundations
       children:
-        - file: u_substitution_1.md
-    - title: Famous Numbers
-      children:
-        - file: e_irrational_fourier_proof.md
+        - file: foundations_what_is_the_meaning_of_this
+        # Add each file here after its .md conversion is complete:
+        # - file: foundations_numbers_a_gentle_introduction
+        # - file: foundations_divisibility_and_primes_part_i
+        # - file: foundations_complex_numbers_a_gentle_introduction
+        # - file: foundations_some_interesting_numbers
+        # - file: foundations_algebra
+        # - file: foundations_inverse_functions
+        # - file: foundations_series_part_i
+        # - file: foundations_exponential_and_log_functions
+        # - file: foundations_continued_fractions
+        # - file: foundations_modulo_math
+    # Uncomment each Part as its chapters are converted:
+    # - title: Language and Structure of Mathematics
+    #   children:
+    #     - file: language_of_math_speaking_mathematically
+    #     - file: language_of_math_logic
+    #     - file: language_of_math_proofs
+    #     - file: language_of_math_sets
+    #     - file: language_of_math_relations_functions
+    #     - file: language_of_math_sequences
+    # - title: Geometry
+    #   children:
+    #     - file: geometry
+    # - title: Real Analysis
+    #   children:
+    #     - file: real_analysis
+    # - title: Calculus
+    #   children:
+    #     - file: calculus
+    # - title: Advanced Calculus
+    #   children:
+    #     - file: advanced_calculus
+    # - title: Advanced Topics I
+    #   children:
+    #     - file: advancedTopics1_modular_math_cryptography_foundations
+    # - title: Probability and Statistics
+    #   children:
+    #     - file: probability_statistics
+    # - title: Linear Algebra
+    #   children:
+    #     - file: linear_algebra
+    # - title: Differential Equations
+    #   children:
+    #     - file: differential_equations
+    # - title: Famous Numbers
+    #   children:
+    #     - file: famous_numbers
+    # - title: Famous Problems
+    #   children:
+    #     - file: famous_problems
+    # - title: Advanced Topics II
+    #   children:
+    #     - file: advanced_topics_2
 
 site:
   template: book-theme
   options:
-    style: public/custom.css
-  domains:
-    - gkhanna357.curve.space
+    style: custom.css

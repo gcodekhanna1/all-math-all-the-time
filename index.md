@@ -1,15 +1,27 @@
 ---
-title: Math Notes
+title: All Math All The Time
 ---
 
-# Welcome to My Math Notes
+# All Math All The Time
 
-This is a collection of mathematical proofs and explorations.
+*Gaurav Khanna, Ph.D.*
 
-## Contents
+A collection of mathematical articles spanning foundations through advanced topics. Each article is self-contained and cross-linked — browse whatever interests you.
 
-**Calculus**
-- [Using u-Substitution to Solve Integrals](u_substitution_1.md)
+---
 
-**Famous Numbers**
-- [Proof that e is Irrational](e_irrational_fourier_proof.md)
+## Foundations
+
+The building blocks: numbers, divisibility, modular arithmetic, algebra, series, and more.
+
+- [Introduction](foundations_what_is_the_meaning_of_this.md)
+- [Numbers: A Gentle Introduction](foundations_numbers_a_gentle_introduction.md) *(coming soon)*
+- [Divisibility and Primes, Part I](foundations_divisibility_and_primes_part_i.md) *(coming soon)*
+- [Complex Numbers: A Gentle Introduction](foundations_complex_numbers_a_gentle_introduction.md) *(coming soon)*
+- [Some Interesting Numbers](foundations_some_interesting_numbers.md) *(coming soon)*
+- [Algebra](foundations_algebra.md) *(coming soon)*
+- [Inverse Functions](foundations_inverse_functions.md) *(coming soon)*
+- [Series, Part I](foundations_series_part_i.md) *(coming soon)*
+- [Exponential and Log Functions](foundations_exponential_and_log_functions.md) *(coming soon)*
+- [Continued Fractions](foundations_continued_fractions.md) *(coming soon)*
+- [Modulo Math](foundations_modulo_math.md) *(coming soon)*
