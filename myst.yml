@@ -5,6 +5,11 @@ project:
   title: All Math All The Time
   authors:
     - name: Gaurav Khanna, Ph.D.
+  numbering:
+    headings: true
+    equations: true
+    figures: true
+    tables: true
   # TOC mirrors the Part/Chapter order in A_All Math All The Time.tex
   # Add each file here after its .md conversion is complete.
   toc:
