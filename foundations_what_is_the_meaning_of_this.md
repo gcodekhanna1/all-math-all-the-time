@@ -2,6 +2,8 @@
 title: Introduction
 label: chap:introduction_foundations
 author: Gaurav Khanna, Ph.D.
+numbering:
+  enumerator: "1.%s"
 ---
 
 > "Learning numbers can be fun. Let's begin with number 1"
