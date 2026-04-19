@@ -59,6 +59,9 @@ The following examples fall in the category of: "when in doubt, always trust the
 
 It's always fun to revisit something I'm sure I learned in elementary school... but forgot! Here are some divisibility rules that tell you very quickly whether a number is divisible by integers from 1 - 10. These are shown in Table {ref}`tab:basic_divisibility_rules`.
 
+:::{table} Basic divisibility rules for integers less than 10
+:label: tab:basic_divisibility_rules
+
 | **Divisor** | **Rule** | **Example** |
 |---|---|---|
 | 2 | If the last digit is 0, 2, 4, 6 or 8 | *C'mon Man!* |
@@ -70,7 +73,7 @@ It's always fun to revisit something I'm sure I learned in elementary school... 
 | 8 | If number formed by last three digits is divisible by 8 | $\displaystyle 24,296 \rightarrow \frac{296}{8} = 37$ |
 | 9 | If the sum of digits is divisible by 9 | $\displaystyle 549 \rightarrow \frac{5+4+9}{9} = 2$ |
 
-: Basic divisibility rules for integers less than 10. {#tab:basic_divisibility_rules}
+:::
 
 
 ### Divisibility Rules for 7
