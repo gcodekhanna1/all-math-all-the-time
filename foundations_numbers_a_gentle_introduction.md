@@ -57,7 +57,7 @@ The following examples fall in the category of: "when in doubt, always trust the
 (sec:divisibility_rules)=
 ## Divisibility Rules
 
-It's always fun to revisit something I'm sure I learned in elementary school... but forgot! Here are some divisibility rules that tell you very quickly whether a number is divisible by integers from 1 - 10. These are shown in Table {ref}`tab:basic_divisibility_rules`.
+It's always fun to revisit something I'm sure I learned in elementary school... but forgot! Here are some divisibility rules that tell you very quickly whether a number is divisible by integers from 1 - 10. These are shown in {ref}`tab:basic_divisibility_rules`.
 
 :::{table} Basic divisibility rules for integers less than 10
 :label: tab:basic_divisibility_rules
